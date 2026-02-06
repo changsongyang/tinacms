@@ -1,5 +1,12 @@
 # next-tinacms-cloudinary
 
+## 21.0.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - tinacms@3.4.2
+
 ## 21.0.1
 
 ### Patch Changes

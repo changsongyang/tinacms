@@ -1,5 +1,12 @@
 # tina-graphql
 
+## 2.1.2
+
+### Patch Changes
+
+- [#6375](https://github.com/tinacms/tinacms/pull/6375) [`39fa13a`](https://github.com/tinacms/tinacms/commit/39fa13aae6af31c0f0b505e841e28d8d5a3886b9) Thanks [@TihomirIvanov](https://github.com/TihomirIvanov)! - - Updated dependency jsonpath-plus
+  - Fixes security vulnerabilities
+
 ## 2.1.1
 
 ### Patch Changes
